@@ -1,0 +1,8 @@
+All mapping methods are implemented in the included libspherecube library.
+No external libraries are required.
+
+The evaluation methods are implemented in the analyzer, plotter, and
+precision-test utilities. The modules pngvis (for analyzer) and pdfplot (for
+plotter) require Qt.
+
+The file common.hpp defines the list of projections.
